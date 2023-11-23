@@ -1,0 +1,11 @@
+C:\Users\rw201\Desktop\Studia\Programowanie\SzyfrCezara\SzyfrCezara\bin\Debug\SzyfrCezara.exe.config
+C:\Users\rw201\Desktop\Studia\Programowanie\SzyfrCezara\SzyfrCezara\bin\Debug\SzyfrCezara.exe
+C:\Users\rw201\Desktop\Studia\Programowanie\SzyfrCezara\SzyfrCezara\bin\Debug\SzyfrCezara.pdb
+C:\Users\rw201\Desktop\Studia\Programowanie\SzyfrCezara\SzyfrCezara\obj\Debug\SzyfrCezara.csproj.AssemblyReference.cache
+C:\Users\rw201\Desktop\Studia\Programowanie\SzyfrCezara\SzyfrCezara\obj\Debug\SzyfrCezara.csproj.SuggestedBindingRedirects.cache
+C:\Users\rw201\Desktop\Studia\Programowanie\SzyfrCezara\SzyfrCezara\obj\Debug\SzyfrCezara.Form1.resources
+C:\Users\rw201\Desktop\Studia\Programowanie\SzyfrCezara\SzyfrCezara\obj\Debug\SzyfrCezara.Properties.Resources.resources
+C:\Users\rw201\Desktop\Studia\Programowanie\SzyfrCezara\SzyfrCezara\obj\Debug\SzyfrCezara.csproj.GenerateResource.cache
+C:\Users\rw201\Desktop\Studia\Programowanie\SzyfrCezara\SzyfrCezara\obj\Debug\SzyfrCezara.csproj.CoreCompileInputs.cache
+C:\Users\rw201\Desktop\Studia\Programowanie\SzyfrCezara\SzyfrCezara\obj\Debug\SzyfrCezara.exe
+C:\Users\rw201\Desktop\Studia\Programowanie\SzyfrCezara\SzyfrCezara\obj\Debug\SzyfrCezara.pdb
